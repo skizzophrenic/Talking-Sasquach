@@ -9,6 +9,8 @@ Check out these other greators on their GitHubs!  I wouldn't be here without all
 
 Kuronons: https://github.com/Kuronons/FZ_graphics
 
+Haseo : https://github.com/Haseosama/FZ_Animations
+
 This is the hole in the internet where I post my things.  Let me know if you want a commission piece or anything.
 
 This is home of the Talking Sasquach and where I will store the procedure I wrote up for making animations for the Flipper Zero.  Keep in mind that this is a living document and is subject to change.  You're better off bookmarking this page than trying to download the instructions because in all likelyhood, next time you go to read it, it will be more accurate and easier to follow!  PS I reserve the right to be completely wrong in any of the instructions, I don't work for Flipper, so we're figuring things out as much as you are.
