@@ -1,5 +1,5 @@
 <p align="center">
-<img width="830" height="415" src="[[https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg](https://user-images.githubusercontent.com/16942638/194731001-2aba48f4-6ebc-4542-bbec-b43f552f0d02.jpg)"](https://user-images.githubusercontent.com/16942638/194731001-2aba48f4-6ebc-4542-bbec-b43f552f0d02.jpg)>
+<img width="830" height="415" src="https://user-images.githubusercontent.com/16942638/194731001-2aba48f4-6ebc-4542-bbec-b43f552f0d02.jpg">
 </p>
 For all of your looking for my procedure on creating Flipper Animations, it can be found here:
 
