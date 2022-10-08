@@ -2,6 +2,7 @@
 
 Sasquach_Blaster:
 My latest animation.  I spent a long time having two separate background layers that did not synchronize.  The foreground guy worked perfect to create a loop.  Overall, I'm pretty satisfied with it!
+
 https://user-images.githubusercontent.com/16942638/194679727-1f3902a5-7a9d-4a8d-968e-d9d94830a948.mp4
 
 
