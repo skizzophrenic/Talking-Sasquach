@@ -1,5 +1,5 @@
 Sasquach_Naruto:
-After playing around with a full anime GIF to Flipper conversion, I decided to make my own.  Reused the cloud assets from Blaster and added some grass in the foreground.  Actually looks better in the render because of screen refreshing, but I still really like how it came out.
+After playing around with a full anime GIF to Flipper conversion, I decided to make my own.  Reused the cloud assets from Blaster and added some grass in the foreground.  Funny thing about this animation is that if I increase the FPS it looks better on the qFlipper render, but if I leave it where it is, it looks better on the device.  I always try to optimize to the device if thats an option.
 
 https://user-images.githubusercontent.com/16942638/194765210-ef952373-1416-4ae1-ba82-d5ee43390e37.mp4
 
