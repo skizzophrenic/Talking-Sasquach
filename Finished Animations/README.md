@@ -1,7 +1,7 @@
 Sasquach_Naruto:
 After playing around with a full anime GIF to Flipper conversion, I decided to make my own.  Reused the cloud assets from Blaster and added some grass in the foreground.  Actually looks better in the render because of screen refreshing, but I still really like how it came out.
 
-https://user-images.githubusercontent.com/16942638/194762378-8d2f395d-129d-48ff-aa9a-9f91e790d3be.mp4
+https://user-images.githubusercontent.com/16942638/194765210-ef952373-1416-4ae1-ba82-d5ee43390e37.mp4
 
 
 Sasquach_Blaster:
