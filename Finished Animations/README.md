@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/16942638/193435170-e7f0dfcf-1dba-4832-
 Sasquach_RMCF : 
 Kuronons made the OG RogueMaster logo animation and he was so gracious to give me his entire file.  I borrowed his lettering and added some really cool sprites.  I was originally planning on adding more speech bubbles, but I really wanted to do everything in passive frames.  I love this one, I think it really showed that I could hang with some of the OG animators.  UPDATED!!  Added Goku face at the end to increase animation's "screeenshotability"
 
-
+![Sasquach_RMCF](https://user-images.githubusercontent.com/16942638/194926897-025ffb50-2bbe-4c41-b462-15578904e3b7.gif)
 
 
 Sasquach_SaladFingers:
