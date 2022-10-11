@@ -1,7 +1,7 @@
 Sasquach_Naruto:
 After playing around with a full anime GIF to Flipper conversion, I decided to make my own.  Reused the cloud assets from Blaster and added some grass in the foreground.  Funny thing about this animation is that if I increase the FPS it looks better on the qFlipper render, but if I leave it where it is, it looks better on the device.  I always try to optimize to the device if thats an option.
 
-https://user-images.githubusercontent.com/16942638/194765210-ef952373-1416-4ae1-ba82-d5ee43390e37.mp4
+https://user-images.githubusercontent.com/16942638/195154603-bb41b174-6f7b-4a7b-bb33-4ccc473990f6.mp4
 
 
 Sasquach_Blaster:
@@ -23,9 +23,9 @@ https://user-images.githubusercontent.com/16942638/193435170-e7f0dfcf-1dba-4832-
 
 
 Sasquach_RMCF : 
-Kuronons made the OG RogueMaster logo animation and he was so gracious to give me his entire file.  I borrowed his lettering and added some really cool sprites.  I was originally planning on adding more speech bubbles, but I really wanted to do everything in passive frames.  I love this one, I think it really showed that I could hang with some of the OG animators.  
+Kuronons made the OG RogueMaster logo animation and he was so gracious to give me his entire file.  I borrowed his lettering and added some really cool sprites.  I was originally planning on adding more speech bubbles, but I really wanted to do everything in passive frames.  I love this one, I think it really showed that I could hang with some of the OG animators.  UPDATED!!  Added Goku face at the end to increase animation's "screeenshotability"
 
-https://user-images.githubusercontent.com/16942638/193430832-d0e8c05f-62dc-420d-9879-5dd541a2d184.mp4
+![Sasquach_RMCF](https://user-images.githubusercontent.com/16942638/194926897-025ffb50-2bbe-4c41-b462-15578904e3b7.gif)
 
 
 Sasquach_SaladFingers:
