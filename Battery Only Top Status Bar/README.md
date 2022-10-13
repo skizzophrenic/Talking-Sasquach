@@ -13,3 +13,7 @@ Full Power Bar
 Power bar without the shadow
 
 ![Smaller Power Bar](https://user-images.githubusercontent.com/16942638/195594821-1e749024-b4bd-487e-bccf-5b5c1991eff8.png)
+
+No Power Bar
+
+![No Battery Icon](https://user-images.githubusercontent.com/16942638/195629013-bfd2f688-689b-4c11-bc6f-df158b7bf5f7.png)
