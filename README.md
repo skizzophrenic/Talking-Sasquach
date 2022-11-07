@@ -1,7 +1,5 @@
 ![Github2](https://user-images.githubusercontent.com/16942638/200438105-87c73aae-12d4-4cbd-94c1-26c9be058a17.jpg)
 
-![Github3](https://user-images.githubusercontent.com/16942638/200089465-9e2dea1f-81e3-4f03-85ac-c2ddab0a0d74.jpg)
-
 For all of you looking for my procedure on creating Flipper Animations, it can be found here:
 
 https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub
