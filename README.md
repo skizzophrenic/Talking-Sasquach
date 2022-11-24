@@ -1,5 +1,4 @@
-<meta property="og:image" content="https://user-images.githubusercontent.com/16942638/194731001-2aba48f4-6ebc-4542-bbec-b43f552f0d02.jpg">
-<img src="https://user-images.githubusercontent.com/16942638/194731001-2aba48f4-6ebc-4542-bbec-b43f552f0d02.jpg">
+![Github2](https://user-images.githubusercontent.com/16942638/200438105-87c73aae-12d4-4cbd-94c1-26c9be058a17.jpg)
 
 For all of you looking for my procedure on creating Flipper Animations, it can be found here:
 
