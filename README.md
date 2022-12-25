@@ -6,6 +6,16 @@ https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKV
 
 The file is updated continuously, so bookmark this page to keep up to date!
 
+Make sure to check out and subscribe to my YouTube channel!!  It's full of tutorials for beginner and advanced users and might help you out!!
+https://www.youtube.com/@TalkingSasquach
+
+Support my work and my YouTube Channel at my Patreon!!
+https://www.patreon.com/user?u=29290751
+
+Join the Discord!! It's a lot of fon and it's a great and growing community!!
+https://discord.gg/squachtopia
+![Discord_Big_Banner](https://user-images.githubusercontent.com/16942638/209476309-26e29053-a745-419b-9a15-abed4ac9aa4e.jpg)
+
 Check out these other greators on their GitHubs!  I wouldn't be here without all the contributions they've made.
 
 Kuronons: https://github.com/Kuronons/FZ_graphics
