@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "talking-sasquach-werewolf"
+version = "0.2.0"
+description = "Defensive-only Werewolf desktop reference application"
+readme = "WEREWOLF_GAME.md"
+requires-python = ">=3.10"
+authors = [{ name = "Talking Sasquach contributors" }]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Security",
+]
+dependencies = []
+
+[project.scripts]
+werewolf = "werewolf_game.cli:console_main"
+
+[project.optional-dependencies]
+dev = ["build>=1.2"]
+
+[tool.setuptools.packages.find]
+include = ["werewolf_game*"]

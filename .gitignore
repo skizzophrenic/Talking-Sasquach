@@ -1,0 +1,8 @@
+*.egg-info/
+*.py[cod]
+__pycache__/
+.venv/
+build/
+dist/
+quality-report.json
+

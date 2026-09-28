@@ -1,0 +1,44 @@
+{
+  "current_time": 1000,
+  "devices": [
+    {
+      "device_id": "flipper-red",
+      "device_class": "flipper",
+      "signal_dbm": -43,
+      "opted_in": true,
+      "game_beacon_valid": true,
+      "battle_power": 70,
+      "connected_first": false,
+      "beacon_id": "beacon-flipper-red-1",
+      "issued_at": 900,
+      "expires_at": 1100
+    },
+    {
+      "device_id": "pineapple-gold",
+      "device_class": "pineapple",
+      "signal_dbm": -51,
+      "opted_in": true,
+      "game_beacon_valid": true,
+      "beacon_id": "beacon-pineapple-gold-1",
+      "issued_at": 900,
+      "expires_at": 1100
+    },
+    {
+      "device_id": "ordinary-phone",
+      "device_class": "other",
+      "signal_dbm": -35,
+      "opted_in": false,
+      "game_beacon_valid": false
+    }
+  ],
+  "attack_alert": {
+    "alert_id": "host-alert-1",
+    "detector": "session-integrity-monitor",
+    "target_device_id": "flipper-red",
+    "reason": "unauthorized protected-route access",
+    "severity": 4,
+    "trusted": true
+  },
+  "shield_charge": 20,
+  "attacker_device_id": "flipper-red"
+}
